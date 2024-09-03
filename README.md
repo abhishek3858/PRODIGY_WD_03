@@ -23,13 +23,7 @@ This project is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaS
 
 ## Installation
 
-1. Clone the repository to your local machine:
-
-    ```bash
-    git clone https://github.com/imaadiiii/PRODIGY_WD_03.git
-    ```
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
     ```bash
     cd tic-tac-toe
